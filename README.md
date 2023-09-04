@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 </a>
 <br />
 Hi, I'm Sairakesh Gajavalli form India, Student from Northwest Missouri State University.
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
 - 🔭 I’m currently working on Git
