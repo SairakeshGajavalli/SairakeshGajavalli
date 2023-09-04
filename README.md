@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 <br />
 
 Hi, I'm Sairakesh Gajavalli form India, Student from Northwest Missouri State University.
+
+
+- 🔭 I’m currently working on Git
+- 🌱 I’m currently learning Web Applications
+- 📫 How to reach me: convey2sairakesh@gmail.com
+-->
