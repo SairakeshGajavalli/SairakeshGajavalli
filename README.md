@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 </a>
 <br />
 
-Hi, I'm Sairakesh Gajavalli, Student from Northwest Missouri State University from India.
+Hi, I'm Sairakesh Gajavalli form India, Student from Northwest Missouri State University.
