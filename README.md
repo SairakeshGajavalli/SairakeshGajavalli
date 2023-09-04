@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Sairakesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
-         Hi, I'm Sairakesh Gajavalli form India, Student from Northwest Missouri State University.
+Hi, I'm Sairakesh Gajavalli form India, Student from Northwest Missouri State University.
 
 
 - 🔭 I’m currently working on Git
