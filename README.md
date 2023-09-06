@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 Hi, I'm Sairakesh Gajavalli form India, Student from Northwest Missouri State University.
 
 
- <img align="left" width="50%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-
 - 🔭 I’m currently working on Git
 - 🌱 I’m currently learning Web Applications
 - 📫 How to reach me: convey2sairakesh@gmail.com
+
+- 
+ <img align="left" width="50%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
