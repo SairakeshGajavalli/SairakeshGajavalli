@@ -26,6 +26,6 @@ Hi, I'm Sairakesh Gajavalli form India, Student from Northwest Missouri State Un
 - 🌱 I’m currently learning Web Applications
 - 📫 How to reach me: convey2sairakesh@gmail.com
 
-- 
+
  <img align="left" width="50%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
