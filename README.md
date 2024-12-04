@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm Sairakesh, a skilled web developer with a knac
 ## 🏢 **Experience**  
 ### **Full-Stack Developer**  
 *Cognizant Technology Solutions (2021 - 2023)*  
-- Specialized in web content management systems (AEM).  
+- I specialize in web content management systems (AEM).  
 - Developed dynamic websites using React, Angular, Java, and JavaScript.  
 - Proficient in project management tools (JIRA, Confluence) and CI/CD workflows.  
 
@@ -67,5 +67,5 @@ Welcome to my GitHub profile! I'm Sairakesh, a skilled web developer with a knac
 
 ## 📬 **Let’s Connect!**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sairakesh-gajavalli)  
-- 📧 [Email](mailto:your-email@example.com)  
+- 📧 [Email](mailto:convey2sairakesh@gmail.com)  
 - 🌟 Feel free to explore my repositories and projects here on GitHub!
